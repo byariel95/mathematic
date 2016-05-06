@@ -129,5 +129,12 @@ namespace suma_y_resta_de_matrices
             graficador.MdiParent = this;
             graficador.Show();
         }
+
+        private void derivadaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            derivadas deri = new derivadas();
+            deri.MdiParent = this;
+            deri.Show();
+        }
     }
 }

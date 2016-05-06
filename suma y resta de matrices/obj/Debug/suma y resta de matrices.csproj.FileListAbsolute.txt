@@ -99,3 +99,25 @@ E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_res
 E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
 E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntomedio.resources
 E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.graficafun.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.derivadas.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.graficafun.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Integral.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodonewton.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodosteff.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntomedio.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.simpsom.resources
+X:\Documentos\MEGA\mathematic\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache

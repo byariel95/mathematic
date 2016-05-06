@@ -58,6 +58,12 @@
     <Compile Include="biseccion.Designer.cs">
       <DependentUpon>biseccion.cs</DependentUpon>
     </Compile>
+    <Compile Include="derivadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="derivadas.Designer.cs">
+      <DependentUpon>derivadas.cs</DependentUpon>
+    </Compile>
     <Compile Include="determinante.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -135,6 +141,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="biseccion.resx">
       <DependentUpon>biseccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="derivadas.resx">
+      <DependentUpon>derivadas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="determinante.resx">
       <DependentUpon>determinante.cs</DependentUpon>

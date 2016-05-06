@@ -41,8 +41,9 @@
             this.metodoTrapecioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.simpsomToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.puntoMedioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.graficadorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.derivadaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -61,11 +62,12 @@
             this.metodoTrapecioToolStripMenuItem,
             this.simpsomToolStripMenuItem,
             this.puntoMedioToolStripMenuItem,
-            this.graficadorToolStripMenuItem});
+            this.graficadorToolStripMenuItem,
+            this.derivadaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1397, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1457, 28);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -147,16 +149,6 @@
             this.puntoMedioToolStripMenuItem.Text = "Punto Medio";
             this.puntoMedioToolStripMenuItem.Click += new System.EventHandler(this.puntoMedioToolStripMenuItem_Click);
             // 
-            // statusStrip1
-            // 
-            this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.statusStrip1.Location = new System.Drawing.Point(0, 479);
-            this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 13, 0);
-            this.statusStrip1.Size = new System.Drawing.Size(1397, 22);
-            this.statusStrip1.TabIndex = 4;
-            this.statusStrip1.Text = "statusStrip1";
-            // 
             // graficadorToolStripMenuItem
             // 
             this.graficadorToolStripMenuItem.Name = "graficadorToolStripMenuItem";
@@ -164,13 +156,30 @@
             this.graficadorToolStripMenuItem.Text = "Graficador";
             this.graficadorToolStripMenuItem.Click += new System.EventHandler(this.graficadorToolStripMenuItem_Click);
             // 
+            // statusStrip1
+            // 
+            this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 479);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 13, 0);
+            this.statusStrip1.Size = new System.Drawing.Size(1457, 22);
+            this.statusStrip1.TabIndex = 4;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // derivadaToolStripMenuItem
+            // 
+            this.derivadaToolStripMenuItem.Name = "derivadaToolStripMenuItem";
+            this.derivadaToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
+            this.derivadaToolStripMenuItem.Text = "Derivada";
+            this.derivadaToolStripMenuItem.Click += new System.EventHandler(this.derivadaToolStripMenuItem_Click);
+            // 
             // Princi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1397, 501);
+            this.ClientSize = new System.Drawing.Size(1457, 501);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
@@ -203,5 +212,6 @@
         private System.Windows.Forms.ToolStripMenuItem simpsomToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem puntoMedioToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem graficadorToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem derivadaToolStripMenuItem;
     }
 }
