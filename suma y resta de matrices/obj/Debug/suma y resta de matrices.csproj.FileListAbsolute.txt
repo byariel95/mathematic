@@ -1,0 +1,101 @@
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+c:\users\ariel minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+C:\Users\Ariel Minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+C:\Users\Ariel Minterroso\Documents\Visual Studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+C:\Users\Ariel Minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+C:\Users\Ariel Minterroso\documents\visual studio 2013\Projects\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+F:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+F:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+F:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+D:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+D:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+D:\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+F:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+D:\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodonewton.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodonewton.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodosteff.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Integral.resources
+F:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodosteff.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Integral.resources
+D:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.simpsom.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe.config
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.exe
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.pdb
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.exe
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\bin\Debug\suma y resta de matrices.pdb
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csprojResolveAssemblyReference.cache
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.adjunta.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.biseccion.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.determinante.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Form1.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Integral.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.matrices.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodonewton.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.metodosteff.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Princi.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.Properties.Resources.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntofijo.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.simpsom.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma y resta de matrices.csproj.GenerateResource.Cache
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.puntomedio.resources
+E:\mate 7\suma y resta de matrices\suma y resta de matrices\obj\Debug\suma_y_resta_de_matrices.graficafun.resources

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{716EAC9D-D65B-47B6-BD62-24901519380E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>suma_y_resta_de_matrices</RootNamespace>
+    <AssemblyName>suma y resta de matrices</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adjunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adjunta.Designer.cs">
+      <DependentUpon>adjunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biseccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biseccion.Designer.cs">
+      <DependentUpon>biseccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="determinante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="determinante.Designer.cs">
+      <DependentUpon>determinante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="graficafun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="graficafun.Designer.cs">
+      <DependentUpon>graficafun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Integral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Integral.Designer.cs">
+      <DependentUpon>Integral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mathparser\MathFunctions.cs" />
+    <Compile Include="mathparser\Parser.cs" />
+    <Compile Include="mathparser\ParsingException.cs" />
+    <Compile Include="mathparser\Variables.cs" />
+    <Compile Include="matrices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="matrices.Designer.cs">
+      <DependentUpon>matrices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="metodonewton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="metodonewton.Designer.cs">
+      <DependentUpon>metodonewton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="metodosteff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="metodosteff.Designer.cs">
+      <DependentUpon>metodosteff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Princi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Princi.Designer.cs">
+      <DependentUpon>Princi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="puntofijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="puntofijo.Designer.cs">
+      <DependentUpon>puntofijo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="puntomedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="puntomedio.Designer.cs">
+      <DependentUpon>puntomedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="simpsom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="simpsom.Designer.cs">
+      <DependentUpon>simpsom.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adjunta.resx">
+      <DependentUpon>adjunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biseccion.resx">
+      <DependentUpon>biseccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="determinante.resx">
+      <DependentUpon>determinante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="graficafun.resx">
+      <DependentUpon>graficafun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Integral.resx">
+      <DependentUpon>Integral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="matrices.resx">
+      <DependentUpon>matrices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="metodonewton.resx">
+      <DependentUpon>metodonewton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="metodosteff.resx">
+      <DependentUpon>metodosteff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Princi.resx">
+      <DependentUpon>Princi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="puntofijo.resx">
+      <DependentUpon>puntofijo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="puntomedio.resx">
+      <DependentUpon>puntomedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="simpsom.resx">
+      <DependentUpon>simpsom.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
